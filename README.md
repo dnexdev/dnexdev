@@ -1,5 +1,4 @@
-cs @ uwaterloo
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4FF71C&center=true&vCenter=true&multiline=true&width=442&height=70&lines=cs+%40+uwaterloo;i+love+the+world+and+everything+in+it)](https://git.io/typing-svg)
 [![](https://raw.githubusercontent.com/dnexdev/dnexdev/main/profile-summary-card-output/blue_green/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/dnexdev/dnexdev/main/profile-summary-card-output/blue_green/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/dnexdev/dnexdev/main/profile-summary-card-output/blue_green/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/dnexdev/dnexdev/main/profile-summary-card-output/blue_green/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/dnexdev/dnexdev/main/profile-summary-card-output/blue_green/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
