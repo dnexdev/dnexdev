@@ -5,15 +5,6 @@
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/dnexdev/dnexdev/main/profile-summary-card-output/blue_green/0-profile-details.svg" width="95%" />
-</div>
-
-<div align="center">
 <img src="https://raw.githubusercontent.com/dnexdev/dnexdev/main/profile-summary-card-output/blue_green/3-stats.svg" width="47%" />
-<img src="https://raw.githubusercontent.com/dnexdev/dnexdev/main/profile-summary-card-output/blue_green/1-repos-per-language.svg" width="47%" />
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/dnexdev/dnexdev/main/profile-summary-card-output/blue_green/2-most-commit-language.svg" width="47%" />
 <img src="https://raw.githubusercontent.com/dnexdev/dnexdev/main/profile-summary-card-output/blue_green/4-productive-time.svg" width="47%" />
 </div>
